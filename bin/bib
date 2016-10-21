@@ -1,0 +1,6 @@
+
+/usr/bin/bible $1-rev99:99|less2
+
+#cat ~/bible/kjv.txt|pr -d -t |less
+
+

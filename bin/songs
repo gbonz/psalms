@@ -1,0 +1,4 @@
+
+cd ~/church
+
+cat s.txt|grep -v 'CCLI'|less2
