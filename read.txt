@@ -5,5 +5,8 @@ revelation14:14-19
 psalm96
 
 luke21:5-11
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 5c8c1e8a7d03d5a848142e7c658a7b648a64681a
