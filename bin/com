@@ -1,4 +1,4 @@
 
 cd ~/church
 
-less2 service.txt
+less service.txt
