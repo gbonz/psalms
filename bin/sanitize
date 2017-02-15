@@ -1,0 +1,5 @@
+
+lynx -dump $1>>temp
+
+mv temp $1
+
