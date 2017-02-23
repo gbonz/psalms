@@ -1,11 +1,11 @@
 
-lynx -dump $1>>temp
+lynx -dump $1>temp
 
 # tr '[:upper:]' '[:lower:]' < input.txt > output.txt
 
-tr '[:upper:]' '[:lower:]' < temp > $1
+tr '[:upper:]' '[:lower:]' < temp > output.txt
 
-cat $1
+less output.txt
 
-#mv temp $1
+mv output.txt $1
 
