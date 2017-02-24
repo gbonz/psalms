@@ -7,5 +7,7 @@ tr '[:upper:]' '[:lower:]' < temp > output.txt
 
 less output.txt
 
+rm temp
+
 mv output.txt $1
 
