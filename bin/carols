@@ -1,0 +1,3 @@
+
+cat carols.txt|grep -v 'CCLI'|less2
+
