@@ -1,5 +1,7 @@
 
-cd ~/church
+#cd ~/church
+
+cd ~/git/worship-tools
 
 less2 psalms.txt
 

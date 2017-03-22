@@ -1,4 +1,6 @@
 
-cd ~/church
+#cd ~/church
 
-cat s.txt|grep -v 'CCLI'|less2
+cd ~/git/worship-tools
+
+cat songs.txt|grep -v 'ccli'|less2
