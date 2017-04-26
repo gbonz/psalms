@@ -1,4 +1,4 @@
 
-cd ~/church
+#cd ~/church
 
-less service.txt
+less ~/git/worship-tools/service.txt
